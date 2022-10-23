@@ -16,4 +16,4 @@
 17. Access to remote servers.
 18. SQL basics (Create, Delete, Drop, Insert Into, Select, Where, Join).
 19. Database Postgres (installation, configuration and use).
-20. Scrum development methodology
+20. Scrum development methodology.
