@@ -15,6 +15,7 @@ TXT
 - `git push`
  7. Edit the contents of the “new.txt” file - write information about yourself (name, age, number of pets, future desired salary). Everything should be written in TXT format.
 - `nano new.txt`
+- 
 ``
 first name: Neonila
 last name: Hlovatska
@@ -25,7 +26,7 @@ desired salary: 1000
  8. Push changes to an external repository.
 - `git commit -m "add changes to txt file"`
 ---> `Git push`
- 9. Create preferences.txt file
+ 9. Create preferences.txt file.
 - `touch preferences.txt`
  10. Add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in the file preferences.txt in TXT format.
 `cat > preferences.txt`
@@ -36,7 +37,7 @@ Favorite season - Fall
 Favorite food - Burger
 The country I would like to visit - Norway
 ```
- 11. Create a file sklls.txt add information about the skills that will be studied on the course in TXT format
+ 11. Create a file sklls.txt add information about the skills that will be studied on the course in TXT format.
 `cat > skills.txt`
 ```
 1.git bash commands
@@ -55,8 +56,8 @@ The country I would like to visit - Norway
  15. Make Commit changes (save) changes on the web interface.
 - `commit changes`
  16. Modify the bug_report.txt file on the web interface, add a bug report in TXT format.
-- open file
----> Go to the pencil button 'Edit this file'
+- `Open file`
+---> Go to the pencil button `Edit this file`
 ```
 bug report
 Bug_id: 11111
@@ -75,6 +76,6 @@ https://bit.ly/3NOFgrJ
 ```
  17. Make Commit changes (save) changes on the web interface.
 - `commit changes`
- 18. Synchronize external and local TXT repository
+ 18. Synchronize external and local TXT repository.
 - `git fetch`
 ---> `git pull`
