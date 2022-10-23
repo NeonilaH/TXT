@@ -38,7 +38,7 @@ Favorite food - Burger
 The country I would like to visit - Norway
 ```
  11. Create a file sklls.txt add information about the skills that will be studied on the course in TXT format.
-`cat > skills.txt`
+- `cat > skills.txt`
 ```
 1.git bash commands
 2. GitHub repository
