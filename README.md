@@ -15,7 +15,6 @@ TXT
 - `git push`
  7. Edit the contents of the “new.txt” file - write information about yourself (name, age, number of pets, future desired salary). Everything should be written in TXT format.
 - `nano new.txt`
-- 
 ```
 first name: Neonila
 last name: Hlovatska
