@@ -40,10 +40,25 @@ The country I would like to visit - Norway
  11. Create a file sklls.txt add information about the skills that will be studied on the course in TXT format.
 - `cat > skills.txt`
 ```
-1.git bash commands
-2. GitHub repository
-3. Client Server Model
-4. API testing in Postman
+1. Basic theory. SDLC, STLC.
+2. What is a client-server architecture.
+3. HTTP request methods to the server and response codes.
+5. Structures of HTTP requests and responses.
+6. What is JSON, XML. Their structure.
+7. API testing via Postman (JS, API autotests).
+8. Removing and reading logs from an external server.
+9. Dev Tools of web browsers (Google Chrome).
+10. VPN (How it works, why you need it, how to use it, tool options)
+11. Mobile testing.
+12. Feature iOS, Android, guidelines.
+13. Building Android applications on Android Studio.
+14. ADB (android device management).
+15. Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)
+16. Basics of bash scripting, automation of routine tasks on the server.
+17. Access to remote servers.
+18. SQL basics (Create, Delete, Drop, Insert Into, Select, Where, Join).
+19. Database Postgres (installation, configuration and use).
+20. Scrum development methodology.
 ```
  12. Make a commit in one line.
 - `git add skill.txt preferences.txt | git commit -am "add and commit 2 files at once"`
