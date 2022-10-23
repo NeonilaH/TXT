@@ -71,7 +71,7 @@ Add 6 widgets
 Arrange widgets as in the attachment
 AR: The widget in the center has a missing white bottom line.
 ER: All widgets should have four white lines.
-attachment:
+Attachment:
 https://bit.ly/3NOFgrJ
 ```
  17. Commit changes (save changes) on the web interface.
