@@ -74,7 +74,7 @@ ER: All widgets should have four white lines.
 attachment:
 https://bit.ly/3NOFgrJ
 ```
- 17. Make Commit changes (save) changes on the web interface.
+ 17. Commit changes (save changes) on the web interface.
 - `commit changes`
  18. Synchronize external and local TXT repository.
 - `git fetch`
