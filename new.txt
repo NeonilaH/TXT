@@ -2,4 +2,4 @@ first name: Neonila
 last name: Hlovatska
 age: 34
 number of pets: 1
-desired salary: 1000
+desired salary: 100
