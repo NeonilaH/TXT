@@ -17,13 +17,9 @@ TXT
 - `nano new.txt`
 ``
 first name: Neonila
-
 last name: Hlovatska
-
 age: 34
-
 number of pets: 1
-
 desired salary: 1000
 ``
  8. Push changes to an external repository.
