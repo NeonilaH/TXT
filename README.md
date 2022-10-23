@@ -29,7 +29,7 @@ desired salary: 1000
 - `touch preferences.txt`
  10. Add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in the file preferences.txt in TXT format.
  
-`cat > preferences.txt`
+- `cat > preferences.txt`
 ```
 Favorite movie - None
 Favorite TV series - None
