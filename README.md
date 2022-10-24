@@ -1,6 +1,5 @@
 # TXT
 
-TXT
  1. Create an external repository called TXT.
 - `Create a new repository`
  2. Clone the TXT repository to the local computer.
@@ -90,7 +89,7 @@ Attachment:
 https://bit.ly/3NOFgrJ
 ```
  17. Commit changes (save changes) on the web interface.
-- `commit changes`
+- `Commit changes`
  18. Synchronize external and local TXT repository.
 - `git fetch`
 ---> `git pull`
